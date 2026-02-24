@@ -194,6 +194,4 @@ MS Data Analytics Engineering — Northeastern University
 📧 dbritto.r@northeastern.edu
 🔗 [LinkedIn](https://linkedin.com/in/rian-dbritto) | [GitHub](https://github.com/rian-dbritto)
 
----
 
-⭐ If you found this project useful, give it a star!
